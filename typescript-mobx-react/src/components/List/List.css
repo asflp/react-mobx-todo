@@ -1,0 +1,15 @@
+.container_list {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 40px;
+    width: 100%;
+    gap: 15px;
+}
+
+.label_list {
+    display: flex;
+    padding-left: 20px;
+    font-size: 19px;
+    color: #555969;
+    align-items: flex-start;
+}
